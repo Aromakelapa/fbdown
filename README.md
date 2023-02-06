@@ -3,7 +3,7 @@ Scrap data from a Facebook video downloader and get direct info & url links from
 
 ## Install
 ```
-npm install fbdownloader
+npm install fbdown
 ```
 
 ## Changelog

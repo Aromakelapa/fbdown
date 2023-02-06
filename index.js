@@ -1,5 +1,3 @@
-const fbdownloader = require('./src/index.js');
+const fbdown = require('./src/index.js');
 
-const fbdl = fbdownloader
-
-module.exports = fbdl
+module.exports = fbdown

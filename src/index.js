@@ -2,7 +2,7 @@ const
   needle  = require('needle'),
   cheerio = require('cheerio');
 
-const fbdownloader = async (link) => {
+const fbdown = async (link) => {
   try {
     let 
       token,
@@ -37,4 +37,4 @@ const fbdownloader = async (link) => {
 
 };
 
-module.exports = fbdownloader;
+module.exports = fbdown;

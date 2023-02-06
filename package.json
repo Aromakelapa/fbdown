@@ -1,5 +1,5 @@
 {
-  "name": "fbdownloader",
+  "name": "fbdown",
   "version": "1.0.0",
   "description": "Scrap data from a Facebook video downloader and get direct info & url links from your Facebook video",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aromakelapa/fbdownloader.git"
+    "url": "git+https://github.com/Aromakelapa/fbdown.git"
   },
   "keywords": [
     "fbdown",
@@ -21,9 +21,9 @@
   "author": "Aromakelapa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Aromakelapa/fbdownloader/issues"
+    "url": "https://github.com/Aromakelapa/fbdown/issues"
   },
-  "homepage": "https://github.com/Aromakelapa/fbdownloader#readme",
+  "homepage": "https://github.com/Aromakelapa/fbdown#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "needle": "^3.2.0"
