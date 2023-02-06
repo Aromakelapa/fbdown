@@ -12,11 +12,11 @@ npm install fbdown
 
 ## Usage
 ```
-const fbdl = require('./index.js');
+const fbdown = require('fbdown');
 
 const link = "https://m.facebook.com/story.php?story_fbid=pfbid02tLvj3Z7nepbxPWETCoZuigV3pVCSQWbxUUMMsJ3AwLQvnJ6MwnyGh2XVuECone25l&id=100082950226013&mibextid=Nif5oz";
 
-fbdl(link)
+fbdown(link)
   .then((res) => {
     console.log(res);
   })
