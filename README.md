@@ -26,7 +26,7 @@ fbdown(link)
 ```
 
 ## Issues & Contact
-- Create issue session in [Github Repo](https://github.com/Aromakelapa/fdownloader/issues)
+- Create issue session in [Github Repo](https://github.com/Aromakelapa/fbdown/issues)
 
 - You can reach me on [Telegram](https://t.me/Aromakelapa)
 
